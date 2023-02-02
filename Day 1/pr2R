@@ -1,0 +1,2 @@
+data <- read.csv("users.csv")
+View (data)
